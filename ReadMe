@@ -3,6 +3,6 @@ git clone https://github.com/Pranay-Barla/Linux_Mac_changer
 go the directory
 type in:
 python3 <pythonfilename.py> --help/-h (for help)
-python3 <pythonfilename.py> -i <select network name> -m<new mac_add>
+python3 <pythonfilename.py> -i <select network name> -m <new mac_add>
 
 ** make sure number of digits in new mac address is correct and alpha-numeric
